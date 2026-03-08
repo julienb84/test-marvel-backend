@@ -41,6 +41,8 @@ L’API permet :
 
 ## 🌐 Routes de l’API
 
+Version de l'API : v1 → toutes les routes de l'API sont précédées de l'adressage `/api/v1`
+
 ### 🔑 Authentification
 
 - `POST /auth/signup` → créer un utilisateur
@@ -157,5 +159,5 @@ Ce projet est fourni à des fins éducatives. Il n’est pas destiné à un usag
 ## 📡 Contact
 
 - Julien Bouchez : julienbouchez@icloud.com
-- Profile GitHub : [@JulienBCHZ](https://github.com/JulienBCHZ)
+- Profile GitHub : [@JulienBCHZ](https://github.com/julienb84)
 - Profile LinkedIn : [@JulienBouchez](https://www.linkedin.com/in/julien-bouchez-developer/)
